@@ -6,6 +6,7 @@
 2.Guessing Attempts: Limits the number of attempts the user has to guess the number.
 3.Multiple Rounds: Allows the user to play multiple rounds.
 4.Score Display: Displays the score based on the number of attempts taken to guess the number correctly.*/
+
 import java.util.Random;
 import java.util.Scanner;
 
